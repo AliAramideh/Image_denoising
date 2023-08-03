@@ -6,3 +6,5 @@ The following things have been done in this project
 - Design and train an AutoEncoder on the MNIST dataset to denoise the noisy images.
 - Visualize original images, their corresponding noisy images and their reconstructed versions side by side.
 - Repeat the previous steps using PCA algorithm.
+
+This project was the first part of third phase of Intoduction to machine learning course which is lectured at electrical engineering(EE) department of Sharif university of technology(SUT)
